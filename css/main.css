@@ -7,13 +7,6 @@
     font-weight: 400;
     color: #FFFFFF;
     scroll-behavior: smooth;
-
-    <ul style="list-style: none;">
- <li>List item with no bullet</li>
- <li>Second item</li>
-</ul>
-
-
 }
 
 body {
@@ -53,10 +46,11 @@ a, span {
     font-weight: 700;
 }
 
-green    font-family: inherit;
+.pink {
+    font-family: inherit;
     font-size: inherit;
     font-weight: inherit;
-    color: #109c72;
+    color: #F08CAE;
 }
 
 ul {
@@ -68,7 +62,7 @@ ul {
 }
 
 .social-link a i:hover {
-    color: #32bbb7;
+    color: #F08CAE;
 }
 
 .main-container {
@@ -88,7 +82,7 @@ section {
 }
 
 section .hyperlink {
-    color: #05509c;
+    color: #F08CAE;
     font-weight: 700;
     text-decoration: underline;
     transition: all 0.2s ease;
