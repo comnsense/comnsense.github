@@ -1,0 +1,29 @@
+{
+  "name": "mirelse.github.io",
+  "version": "1.0.0",
+  "description": "portofoliov4",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirelse/mirelse.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "mirela",
+    "develover",
+    "web",
+    "developer",
+    "cs",
+    "student",
+    "entry"
+  ],
+  "author": "Mirela Yosifova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirelse/mirelse.github.io/issues"
+  },
+  "homepage": "https://github.com/mirelse/mirelse.github.io#readme"
+}
