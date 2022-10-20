@@ -7,6 +7,13 @@
     font-weight: 400;
     color: #FFFFFF;
     scroll-behavior: smooth;
+
+    <ul style="list-style: none;">
+ <li>List item with no bullet</li>
+ <li>Second item</li>
+</ul>
+
+
 }
 
 body {
