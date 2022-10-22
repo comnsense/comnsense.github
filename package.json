@@ -1,29 +1,36 @@
 {
-  "name": "mirelse.github.io",
-  "version": "1.0.0",
-  "description": "portofoliov4",
+  "name": "portfolio",
+  "version": "2.0.0",
+  "description": "Portfolio Website",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mirelse/mirelse.github.io.git"
+    "url": "git+https://github.com/comnsense/Portfolio.git"
   },
   "keywords": [
-    "portfolio",
-    "mirela",
-    "develover",
-    "web",
-    "developer",
+    "Mirela",
+    "Mirela",
+    "Portfolio",
     "cs",
     "student",
-    "entry"
+    "developer",
+    "java",
+    "react",
+    "html",
+    "css",
+    "javascript",
+    "web",
+    "developer",
+    "webdev",
+    "portfolio"
   ],
   "author": "Mirela Yosifova",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mirelse/mirelse.github.io/issues"
+    "url": "https://github.com/comnsense/Portfolio/issues"
   },
-  "homepage": "https://github.com/mirelse/mirelse.github.io#readme"
+  "homepage": "https://github.com/comnsense/Portfolio#readme"
 }
