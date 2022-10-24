@@ -40,7 +40,7 @@ a, span {
 }
 
 .green {
-    color: #7EB77F;
+    color: #8CF0cE;
 }
 
 .bold {
@@ -51,7 +51,7 @@ a, span {
     font-family: inherit;
     font-size: inherit;
     font-weight: inherit;
-    color: #F08CAE;
+    color: #8b40C5;
 }
 
 ul {
@@ -63,7 +63,7 @@ ul {
 }
 
 .social-link a i:hover {
-    color: #F08CAE;
+    color: #8b40C5;
 }
 
 .main-container {
@@ -83,14 +83,14 @@ section {
 }
 
 section .hyperlink {
-    color: #F08CAE;
+    color: #8b40C5;
     font-weight: 700;
     text-decoration: underline;
     transition: all 0.2s ease;
 }
 
 section .hyperlink:hover {
-    color: #7EB77F;
+    color: #8CF0cE;
 }
 
 .section-description {
@@ -135,20 +135,20 @@ section .hyperlink:hover {
     align-items: center;
 }
 
-.me-icon-container {
-    width: 200px;
-    height: auto;
+. cs-icon-container {
+    width: 250;
+    height: 250;
     object-fit: contain;
     text-align: center;
 }
 
-.me-icon {
+. cs-icon {
     height: 100%;
     width: 100%;
 }
 
 .terminal-container {
-    max-width: 700px;
+    max-width: 50%;
     width: 100%;
     margin-top: 25px;
 }
@@ -233,7 +233,7 @@ section .hyperlink:hover {
 }
 
 .card-info p a:hover {
-    color: #F08CAE;
+    color: #8b40C5;
 }
 
 .card-description {
@@ -246,7 +246,7 @@ section .hyperlink:hover {
 
 .card-description p::before {
     content: ">\A0";
-    color: #7EB77F;
+    color: #8CF0cE;
     font-weight: 700;
 }
 
@@ -299,7 +299,7 @@ section .hyperlink:hover {
 }
 
 .social-media-item:hover {
-    color: #F08CAE;
+    color: #8b40C5;
 }
 
 .social-media-item i {
@@ -340,7 +340,7 @@ section .hyperlink:hover {
         flex-grow: 1;
         margin: 0;
     }
-    .me-icon-container {
+    . cs-icon-container {
         width: 300px;
         height: auto;
     }

@@ -63,7 +63,7 @@ h3 em {
 }
 
 h3 a:hover {
-    color: #7EB77F;
+    color: #8CF0cE;
     text-decoration: underline;
 }
 
@@ -115,13 +115,13 @@ h3 a:hover {
 }
 
 .email-button {
-    border: 1px solid #F08CAE;
-    background-color: #F08CAE;
+    border: 1px solid #8b40C5;
+    background-color: #8b40C5;
 }
 
 .cta:hover {
-    border: 1px solid #7EB77F;
-    background-color: #7EB77F;
+    border: 1px solid #8CF0cE;
+    background-color: #8CF0cE;
     padding: 10px 20px;
 }
 
