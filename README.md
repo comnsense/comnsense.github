@@ -6,7 +6,6 @@ This is the source code for my personal website.
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
- 
 
 Built With
 
@@ -15,7 +14,7 @@ Built With
 - [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
 - [Flaticon](https://www.flaticon.com/) and [FontAwesome](https://fontawesome.com/v5.15/icons?d=gallery&p=1) for the icons
 - Vercel for hosting
--[Figma](https://www.figma.com/) for design and prototyping tools
+  -[Figma](https://www.figma.com/) for design and prototypt
 
 ---
 
