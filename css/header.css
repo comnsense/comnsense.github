@@ -14,8 +14,7 @@ header {
     height: 70px;
     padding: 0 15px;
     z-index: 2;
-    background-color: 8CF0cE; 
- ;
+    background-color: #1D263B;
 }
 
 .header-logo {
@@ -50,7 +49,7 @@ header {
 }
 
 .nav-item a:hover, .nav-item a:focus {
-    color: #1d263b;
+    color: #8cf0C3;
     text-decoration: underline;
 }
 

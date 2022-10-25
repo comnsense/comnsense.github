@@ -22,7 +22,7 @@
 
 .landing-page-socials ul {
     display: flex;
-    flex-direction:  ;
+    flex-direction: row;
     margin-bottom: 20px;
 }
 
@@ -58,12 +58,12 @@ h3 {
 }
 
 h3 em {
-    color: #1d263b;
+    color: white;
     letter-spacing: 0.05em;
 }
 
 h3 a:hover {
-    color: #8CF0cE;
+    color: #7EB77F;
     text-decoration: underline;
 }
 
@@ -115,13 +115,13 @@ h3 a:hover {
 }
 
 .email-button {
-    border: 1px solid #1d263b;
-    background-color: #1d263b;
+    border: 1px solid #8cf0C3;
+    background-color: #8cf0C3;
 }
 
 .cta:hover {
-    border: 1px solid #8CF0cE;
-    background-color: #8CF0cE;
+    border: 1px solid #7EB77F;
+    background-color: #7EB77F;
     padding: 10px 20px;
 }
 
@@ -151,7 +151,7 @@ h3 a:hover {
         flex-direction: column;
     }
     .landing-page-socials ul li a i {
-        margin: 10px 0;
+        margin: 5px 0;
     }
     .email-container {
         margin: 0;
