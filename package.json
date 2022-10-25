@@ -35,5 +35,8 @@
   "homepage": "https://github.com/comnsense/Portfolio#readme",
   "devDependencies": {
     "tailwindcss": "^3.2.1"
+  },
+  "dependencies": {
+    "react-app": "^1.1.2"
   }
 }
