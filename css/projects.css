@@ -1,5 +1,5 @@
 em {
-    color: color(a98-rgb 0.14499 0.16645 0.23845);
+    color: #1D263B;
 }
 
 .projects {
@@ -64,7 +64,7 @@ em {
 }
 
 .project-links a i {
-    color: #8cf0C3;
+    color: #F08CAE;
     font-size: 1.2em;
     transition: all 0.2s ease;
 }
@@ -104,5 +104,38 @@ em {
     .project-cards-container {
         column-count: 2;
         column-gap: 2em;
+    }
+}
+
+.project-grid-container {
+    display: block;
+    margin: 50px auto;
+    column-count: 2;
+    column-gap: 1.4em;
+}
+
+.project-container {
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 1.4em;
+}
+
+.project-container img {
+    transition: all .5s ease-in-out;
+    backface-visibility: hidden;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .project-grid-container {
+        column-count: 3;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .project-grid-container {
+        column-count: 4;
     }
 }
