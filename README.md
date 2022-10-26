@@ -35,4 +35,4 @@ If you have any questions, comments, or concerns, feel free to contact me below.
 
 ### License
 
-Copyright © 2022 Comnsense17. All rights reserved
+Copyright © 2022 Comnsense. All rights reserved
