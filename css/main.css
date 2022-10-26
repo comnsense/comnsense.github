@@ -1,6 +1,3 @@
-
-
-
 * {
     margin: 0;
     padding: 0;
@@ -44,111 +41,7 @@ a, span {
 .green {
     color: #7EB77F;
 }
-/* --- TECH STACK --- */
 
-.tech-stack-container {
-    margin: 50px auto 0 auto;
-    max-width: 1000px;
-    display: flex;
-    flex-wrap: wrap;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-}
-
-.skill {
-    border-radius: 12px;
-    margin: 10px;
-    border: 2px solid #00ABB3;
-    padding: 8px 10px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-}
-
-.skill span {
-    margin-left: 10px;
-}
-
-/* --- ALL SOCIAL MEDIA --- */
-
-.social-media-list {
-    margin: 50px auto 0 auto;
-    width: fit-content;
-    width: -moz-fit-content;
-    display: flex;
-    flex-direction: column;
-    text-align: left;
-}
-
-.social-media-item {
-    display: flex;
-    text-align: center;
-    align-items: center;
-    padding: 5px 0;
-}
-
-.social-media-item:hover {
-    color: #8cf0C3;
-}
-
-.social-media-item i {
-    margin-right: 15px;
-    font-size: 1.5em;
-}
-
-.social-media-item:not(:last-child) {
-    margin-bottom: 10px;
-}
-
-@media only screen and (min-width: 768px) {
-    #education-experience {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
-    .education-experience-container {
-        width: 48%;
-    }
-    #experience {
-        margin-top: 0;
-    }
-    .section-description {
-        margin: 50px 10% 0 10%;
-    }
-}
-
-@media only screen and (min-width: 1100px) {
-    .profile-container {
-        margin: 50px auto 0 auto;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        width: 70%;
-    }
-    .terminal-container {
-        flex-grow: 1;
-        margin: 0;
-    }
-    . cs-icon-container {
-        width: 300px;
-        height: auto;
-    }
-    .education-experience-card {
-        display: flex;
-        justify-content: space-between;
-    }
-    .card-info {
-        width: 40%;
-    }
-    .card-description {
-        width: 60%;
-        margin-top: 0;
-    }
-    .section-description {
-        margin: 50px auto 0 auto;
-    }
-}
 .bold {
     font-weight: 700;
 }
@@ -157,7 +50,7 @@ a, span {
     font-family: inherit;
     font-size: inherit;
     font-weight: inherit;
-    color: #8cf0C3;
+    color: #F08CAE;
 }
 
 ul {
@@ -169,7 +62,7 @@ ul {
 }
 
 .social-link a i:hover {
-    color: #8cf0C3;
+    color: #F08CAE;
 }
 
 .main-container {
@@ -189,7 +82,7 @@ section {
 }
 
 section .hyperlink {
-    color: #8cf0C3;
+    color: #F08CAE;
     font-weight: 700;
     text-decoration: underline;
     transition: all 0.2s ease;
